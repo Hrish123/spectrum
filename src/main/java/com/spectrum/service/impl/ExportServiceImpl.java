@@ -33,8 +33,6 @@ public class ExportServiceImpl implements ExportService {
         return populateData(field, sortType, data);
     }
 
-
-
     /**
      * Export the CSV data
      */
